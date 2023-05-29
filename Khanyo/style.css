@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(145, 210, 231);
+  }
+  
+  h1 {
+    color: rgb(52, 26, 95);
+    margin-left: 150px;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+    margin-left: 150px;
+    font-style: oblique;
+    color: rgb(52, 26, 95);
+     
+  }
+
+  form {
+    font-size: 18px;
+    margin-left: 150px;
+    border-spacing: 14px;
+    color: rgb(52, 26, 95);
+
+  }
+
